@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+My name is Stathis, I am a Greek software engineer with a major love about Information Technology. 
+The topics I like the most is data science and application development however, I am always keen to learn about new technologies and tools, owing to the fact that I support the lifelong learning. 
+
+Stop by and say hello on LinkedIn! 😄
+
+<a href="https://www.linkedin.com/in/efstathios-kaloutsidis/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
 <!--
 **Stathis-Kal/stathis-kal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
